@@ -1,5 +1,10 @@
 Revision history for Bencher-Scenario-WordListModules
 
+0.02    2016-01-08 (PERLANCAR)
+
+	- Add other WordList::* modules.
+
+
 0.01    2016-01-07 (PERLANCAR)
 
         - First release.
