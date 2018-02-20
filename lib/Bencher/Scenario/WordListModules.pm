@@ -20,7 +20,8 @@ our $scenario = {
         {module=>'WordList::Phrase::EN::Proverb::TWW'},
         {module=>'WordList::Phrase::ID::Proverb::KBBI'},
 
-        {module=>'WordListC::Password::SecLists::10Million::Top100000'},
+        {module=>'WordListC::Password::10Million::Top100000'},
+        {module=>'WordListC::Password::10Million::Top1000000'},
     ],
 };
 
