@@ -19,6 +19,8 @@ our $scenario = {
         {module=>'WordList::ID::KBBI'},
         {module=>'WordList::Phrase::EN::Proverb::TWW'},
         {module=>'WordList::Phrase::ID::Proverb::KBBI'},
+
+        {module=>'WordListC::Password::SecLists::10Million::Top100000'},
     ],
 };
 
