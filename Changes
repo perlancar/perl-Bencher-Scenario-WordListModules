@@ -1,4 +1,4 @@
-0.051   2018-02-20 (PERLANCAR)
+0.051   2018-02-20  Released-By: PERLANCAR
 
 	- Remove participant:
 	  WordListC::Password::SecLists::10Million::Top100000; Add
@@ -6,13 +6,13 @@
 	  WordListC::Password::10Million::Top{100000,1000000}.
 
 
-0.050   2018-02-20 (PERLANCAR)
+0.050   2018-02-20  Released-By: PERLANCAR
 
 	- Add participant:
 	  WordListC::Password::SecLists::10Million::Top100000.
 
 
-0.04    2017-01-25 (PERLANCAR)
+0.04    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -21,18 +21,18 @@
           type=x_benchmarks.
 
 
-0.03    2016-01-08 (PERLANCAR)
+0.03    2016-01-08  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [doc] Mention Bencher::Scenario::GamesWordlistModules.
 
 
-0.02    2016-01-08 (PERLANCAR)
+0.02    2016-01-08  Released-By: PERLANCAR
 
 	- Add other WordList::* modules.
 
 
-0.01    2016-01-07 (PERLANCAR)
+0.01    2016-01-07  Released-By: PERLANCAR
 
         - First release.
