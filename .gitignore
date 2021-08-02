@@ -2,3 +2,4 @@ Bencher-Scenario-WordListModules-*
 .build
 *~
 nytprof*
+.DS_Store
